@@ -1,7 +1,7 @@
 
 1. Search Bar Focus Animation
 Purpose: Highlights the input field when the user selects the search bar.
-Behavior: The border color transitions to orange (#ff9800) when focused, providing visual feedback to indicate the field is active.
+Behavior: The border color transitions to orange  when focused, providing visual feedback to indicate the field is active.
 2. Smooth Scroll Animation (Scroll-to-Top Button)
 Purpose: Smoothly scrolls the page to the top when the "scroll-to-top" button is clicked.
 Behavior: The button becomes visible only after scrolling 300px down and disappears when scrolling back up.
